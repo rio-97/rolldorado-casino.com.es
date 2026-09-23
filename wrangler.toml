@@ -1,0 +1,11 @@
+name = "rolldorado-casino-com-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=rolldorado-casino.com.es"
+HMAC_KEY = "45e0f2a7f9593b3a6c57e8ff5381f9def5d955c545cb9378d1c7576c94e0a532"
+COOKIE_NAME = "je8"
+PLAY_PATH = "launch"
+BUTTON_ID = "pa35f8aefff173affa7ac651f86c8a20e"
+GATE_SALT = "dfc4c459323f3d8d"
